@@ -35,7 +35,7 @@ When questions arise, ask team members and discuss the issue, research using Goo
 Discuss the issue. We are all adults, we all need to put in work.  
 
 5. How and when will you escalate the conflict if your resolution attempts are unsuccessful?  
-Depending on the issue, we can get instructors and TAs involved when the issue would start interfering with the schedule.  
+Depending on the issue, we can get instructors and TAs involved when the issue would start interfering with the schedule. If progress is stopped for more than 4 hours.  
 
 ### Communication Plan  
 
